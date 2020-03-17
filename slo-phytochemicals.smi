@@ -1,8 +1,19 @@
 c1cc2c(c(c1)O)C(=O)c3c(cc(cc3O)CO)[C@H]2[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O aloin
+C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O  apigenin
+C1=CC(=C(C=C1/C=C/C(=O)O)O)O  caffeic acid
+C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O  chlorogenica acid
 C(#CC#C[C@@H](O)\C=C)C\C=C/CCCCCCC  falcarinol
+COC1=C(C=CC(=C1)/C=C/C(=O)O)O ferulic acid
+C1=C(C=C(C(=C1O)O)O)C(=O)O  gallic acid
+COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O isorhamnetin
 C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O  hyperoside
+C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O kaempferol
+C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O luteolin
+C1=CC(=CC=C1/C=C/C(=O)O)O p-coumaric acid
 COC1=CC(=C(C=C1)C(=O)OC)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H](CO3)O)O)O)O)O)O primeverin
 COC1=CC(=C(C=C1)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO[C@H]3[C@@H]([C@H]([C@@H](CO3)O)O)O)O)O)O)C(=O)OC primulaverin
+C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O  quercetin
+C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O rosmarinic acid
 C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O rutin
 C=CCSC[C@@H](C(=O)O)N s-allylcysteine
 C/C=C\1/C[C@H]([C@@](C(=O)OCC2=CCN3[C@H]2[C@@H](CC3)OC1=O)(C)O)C  senecionine
